@@ -20,12 +20,12 @@
   },
   "homepage": "https://github.com/stephendpmurphy/serial-monitor#readme",
   "devDependencies": {
-    "electron": "^10.1.4",
-    "electron-rebuild": "^2.3.1",
-    "node-sass": "^4.14.1"
+    "electron": "^22.3.25",
+    "electron-rebuild": "^3.2.9",
+    "node-sass": "^9.0.0"
   },
   "dependencies": {
-    "ansi-regex": "^5.0.0",
+    "ansi-regex": "^5.0.1",
     "nord": "^0.2.1",
     "serialport": "^9.0.2"
   }
